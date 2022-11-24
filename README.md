@@ -9,3 +9,7 @@
 ## Compile ts multi js files
 
 > tsc --init
+
+<p>This will create a tsconfig.json file and after that I can run only:</p>
+
+> tsc -w
